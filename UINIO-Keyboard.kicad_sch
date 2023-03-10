@@ -1,0 +1,21 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid bbcda099-2b9a-49b2-9355-114c31909b50)
+
+  (paper "A4")
+
+  (title_block
+    (title "UINIO-Keyboard")
+    (date "2023-03-10")
+    (rev "Version 1.0.0")
+    (company "电子技术博客 UinIO.com")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
