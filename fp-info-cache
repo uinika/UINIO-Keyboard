@@ -1,4 +1,4 @@
-21644455098529008
+21646133861275409
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -89515,6 +89515,13 @@ ST7789-FPC-PAD
 0
 12
 12
+Uinio
+SW-SMD_EC1106S
+
+
+0
+7
+7
 Uinio
 SW-SMD_L6.0-W3.3-LS8.0-1
 
