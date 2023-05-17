@@ -2169,7 +2169,7 @@
     )
   )
   (symbol "Key_YTS_A016S_1" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
-    (property "Reference" "SW" (at 0 7.6962 0)
+    (property "Reference" "K" (at 0 7.6962 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Key_YTS_A016S_1" (at 0 12.7762 0)
