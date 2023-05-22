@@ -227,7 +227,7 @@ TABLE
   2
 LAYER
   5
-A38
+A16
 330
 0
 100
@@ -237,9 +237,9 @@ AcDbSymbolTable
   0
 LAYER
   5
-A39
+A17
 330
-A38
+A16
 100
 AcDbSymbolTableRecord
 100
@@ -255,9 +255,9 @@ CONTINUOUS
   0
 LAYER
   5
-A3A
+A18
 330
-A38
+A16
 100
 AcDbSymbolTableRecord
 100
@@ -273,15 +273,15 @@ CONTINUOUS
   0
 LAYER
   5
-A3B
+A19
 330
-A38
+A16
 100
 AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-Body
+Sketch
  70
     0
  62
@@ -707,7 +707,7 @@ A02
 100
 AcDbEntity
   8
-Body
+Sketch
 100
 AcDbLine
  10
@@ -717,13 +717,13 @@ AcDbLine
  30
 0
  11
--45
+45
  21
 50
  31
-1
+0
   0
-LINE
+ARC
   5
 A09
 330
@@ -731,21 +731,23 @@ A02
 100
 AcDbEntity
   8
-Body
+Sketch
 100
-AcDbLine
+AcDbCircle
  10
 45
  20
-50
+45
  30
 0
- 11
-45
- 21
-50
- 31
-1
+ 40
+5
+100
+AcDbArc
+ 50
+5.45529e-12
+ 51
+90
   0
 LINE
   5
@@ -755,23 +757,23 @@ A02
 100
 AcDbEntity
   8
-Body
+Sketch
 100
 AcDbLine
  10
--45
- 20
 50
+ 20
+45
  30
 0
  11
-45
- 21
 50
+ 21
+-45
  31
 0
   0
-LINE
+ARC
   5
 A0B
 330
@@ -779,21 +781,23 @@ A02
 100
 AcDbEntity
   8
-Body
+Sketch
 100
-AcDbLine
+AcDbCircle
  10
--45
- 20
-50
- 30
-1
- 11
 45
- 21
-50
- 31
-1
+ 20
+-45
+ 30
+0
+ 40
+5
+100
+AcDbArc
+ 50
+-90
+ 51
+0
   0
 LINE
   5
@@ -803,23 +807,23 @@ A02
 100
 AcDbEntity
   8
-Body
+Sketch
 100
 AcDbLine
  10
-50
- 20
 45
+ 20
+-50
  30
 0
  11
-50
+-45
  21
-45
+-50
  31
-1
+0
   0
-LINE
+ARC
   5
 A0D
 330
@@ -827,37 +831,13 @@ A02
 100
 AcDbEntity
   8
-Body
-100
-AcDbLine
- 10
-45
- 20
-50
- 30
-0
- 11
-45
- 21
-50
- 31
-1
-  0
-ARC
-  5
-A0E
-330
-A02
-100
-AcDbEntity
-  8
-Body
+Sketch
 100
 AcDbCircle
  10
-45
+-45
  20
-45
+-45
  30
 0
  40
@@ -865,9 +845,33 @@ AcDbCircle
 100
 AcDbArc
  50
-0
+180
  51
-90
+-90
+  0
+LINE
+  5
+A0E
+330
+A02
+100
+AcDbEntity
+  8
+Sketch
+100
+AcDbLine
+ 10
+-50
+ 20
+-45
+ 30
+0
+ 11
+-50
+ 21
+45
+ 31
+0
   0
 ARC
   5
@@ -877,25 +881,25 @@ A02
 100
 AcDbEntity
   8
-Body
+Sketch
 100
 AcDbCircle
  10
-45
+-45
  20
 45
  30
-1
+0
  40
 5
 100
 AcDbArc
  50
-0
- 51
 90
+ 51
+180
   0
-LINE
+CIRCLE
   5
 A10
 330
@@ -903,23 +907,17 @@ A02
 100
 AcDbEntity
   8
-Body
+Sketch
 100
-AcDbLine
+AcDbCircle
  10
-50
+-46
  20
-45
- 30
-0
- 11
-50
- 21
-45
- 31
-1
+46
+ 40
+1.6
   0
-LINE
+CIRCLE
   5
 A11
 330
@@ -927,23 +925,17 @@ A02
 100
 AcDbEntity
   8
-Body
+Sketch
 100
-AcDbLine
+AcDbCircle
  10
-50
+-46
  20
--45
- 30
-0
- 11
-50
- 21
--45
- 31
-1
+-46
+ 40
+1.6
   0
-LINE
+CIRCLE
   5
 A12
 330
@@ -951,23 +943,17 @@ A02
 100
 AcDbEntity
   8
-Body
+Sketch
 100
-AcDbLine
+AcDbCircle
  10
-50
+-46
  20
-45
- 30
 0
- 11
-50
- 21
--45
- 31
-0
+ 40
+1.6
   0
-LINE
+CIRCLE
   5
 A13
 330
@@ -975,23 +961,17 @@ A02
 100
 AcDbEntity
   8
-Body
+Sketch
 100
-AcDbLine
+AcDbCircle
  10
-50
+46
  20
-45
- 30
-1
- 11
-50
- 21
--45
- 31
-1
+0
+ 40
+1.6
   0
-LINE
+CIRCLE
   5
 A14
 330
@@ -999,23 +979,17 @@ A02
 100
 AcDbEntity
   8
-Body
+Sketch
 100
-AcDbLine
+AcDbCircle
  10
-45
+46
  20
--50
- 30
-0
- 11
-45
- 21
--50
- 31
-1
+46
+ 40
+1.6
   0
-LINE
+CIRCLE
   5
 A15
 330
@@ -1023,865 +997,15 @@ A02
 100
 AcDbEntity
   8
-Body
-100
-AcDbLine
- 10
-50
- 20
--45
- 30
-0
- 11
-50
- 21
--45
- 31
-1
-  0
-ARC
-  5
-A16
-330
-A02
-100
-AcDbEntity
-  8
-Body
+Sketch
 100
 AcDbCircle
  10
-45
+46
  20
--45
- 30
-0
+-46
  40
-5
-100
-AcDbArc
- 50
--90
- 51
-1.32392e-10
-  0
-ARC
-  5
-A17
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbCircle
- 10
-45
- 20
--45
- 30
-1
- 40
-5
-100
-AcDbArc
- 50
--90
- 51
-1.32392e-10
-  0
-LINE
-  5
-A18
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbLine
- 10
-45
- 20
--50
- 30
-0
- 11
-45
- 21
--50
- 31
-1
-  0
-LINE
-  5
-A19
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbLine
- 10
--45
- 20
--50
- 30
-0
- 11
--45
- 21
--50
- 31
-1
-  0
-LINE
-  5
-A1A
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbLine
- 10
-45
- 20
--50
- 30
-0
- 11
--45
- 21
--50
- 31
-0
-  0
-LINE
-  5
-A1B
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbLine
- 10
-45
- 20
--50
- 30
-1
- 11
--45
- 21
--50
- 31
-1
-  0
-LINE
-  5
-A1C
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbLine
- 10
--50
- 20
--45
- 30
-0
- 11
--50
- 21
--45
- 31
-1
-  0
-LINE
-  5
-A1D
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbLine
- 10
--45
- 20
--50
- 30
-0
- 11
--45
- 21
--50
- 31
-1
-  0
-ARC
-  5
-A1E
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbCircle
- 10
--45
- 20
--45
- 30
-0
- 40
-5
-100
-AcDbArc
- 50
-180
- 51
--90
-  0
-ARC
-  5
-A1F
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbCircle
- 10
--45
- 20
--45
- 30
-1
- 40
-5
-100
-AcDbArc
- 50
-180
- 51
--90
-  0
-LINE
-  5
-A20
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbLine
- 10
--50
- 20
--45
- 30
-0
- 11
--50
- 21
--45
- 31
-1
-  0
-LINE
-  5
-A21
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbLine
- 10
--50
- 20
-45
- 30
-0
- 11
--50
- 21
-45
- 31
-1
-  0
-LINE
-  5
-A22
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbLine
- 10
--50
- 20
--45
- 30
-0
- 11
--50
- 21
-45
- 31
-0
-  0
-LINE
-  5
-A23
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbLine
- 10
--50
- 20
--45
- 30
-1
- 11
--50
- 21
-45
- 31
-1
-  0
-LINE
-  5
-A24
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbLine
- 10
--45
- 20
-50
- 30
-0
- 11
--45
- 21
-50
- 31
-1
-  0
-LINE
-  5
-A25
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbLine
- 10
--50
- 20
-45
- 30
-0
- 11
--50
- 21
-45
- 31
-1
-  0
-ARC
-  5
-A26
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbCircle
- 10
--45
- 20
-45
- 30
-0
- 40
-5
-100
-AcDbArc
- 50
-90
- 51
-180
-  0
-ARC
-  5
-A27
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbCircle
- 10
--45
- 20
-45
- 30
-1
- 40
-5
-100
-AcDbArc
- 50
-90
- 51
-180
-  0
-LINE
-  5
-A28
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbLine
- 10
--45
- 20
-50
- 30
-0
- 11
-45
- 21
-50
- 31
-0
-  0
-ARC
-  5
-A29
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbCircle
- 10
-45
- 20
-45
- 30
-0
- 40
-5
-100
-AcDbArc
- 50
-0
- 51
-90
-  0
-LINE
-  5
-A2A
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbLine
- 10
-50
- 20
-45
- 30
-0
- 11
-50
- 21
--45
- 31
-0
-  0
-ARC
-  5
-A2B
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbCircle
- 10
-45
- 20
--45
- 30
-0
- 40
-5
-100
-AcDbArc
- 50
--90
- 51
-1.32392e-10
-  0
-LINE
-  5
-A2C
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbLine
- 10
-45
- 20
--50
- 30
-0
- 11
--45
- 21
--50
- 31
-0
-  0
-ARC
-  5
-A2D
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbCircle
- 10
--45
- 20
--45
- 30
-0
- 40
-5
-100
-AcDbArc
- 50
-180
- 51
--90
-  0
-LINE
-  5
-A2E
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbLine
- 10
--50
- 20
--45
- 30
-0
- 11
--50
- 21
-45
- 31
-0
-  0
-ARC
-  5
-A2F
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbCircle
- 10
--45
- 20
-45
- 30
-0
- 40
-5
-100
-AcDbArc
- 50
-90
- 51
-180
-  0
-LINE
-  5
-A30
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbLine
- 10
--45
- 20
-50
- 30
-1
- 11
-45
- 21
-50
- 31
-1
-  0
-ARC
-  5
-A31
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbCircle
- 10
-45
- 20
-45
- 30
-1
- 40
-5
-100
-AcDbArc
- 50
-0
- 51
-90
-  0
-LINE
-  5
-A32
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbLine
- 10
-50
- 20
-45
- 30
-1
- 11
-50
- 21
--45
- 31
-1
-  0
-ARC
-  5
-A33
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbCircle
- 10
-45
- 20
--45
- 30
-1
- 40
-5
-100
-AcDbArc
- 50
--90
- 51
-1.32392e-10
-  0
-LINE
-  5
-A34
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbLine
- 10
-45
- 20
--50
- 30
-1
- 11
--45
- 21
--50
- 31
-1
-  0
-ARC
-  5
-A35
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbCircle
- 10
--45
- 20
--45
- 30
-1
- 40
-5
-100
-AcDbArc
- 50
-180
- 51
--90
-  0
-LINE
-  5
-A36
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbLine
- 10
--50
- 20
--45
- 30
-1
- 11
--50
- 21
-45
- 31
-1
-  0
-ARC
-  5
-A37
-330
-A02
-100
-AcDbEntity
-  8
-Body
-100
-AcDbCircle
- 10
--45
- 20
-45
- 30
-1
- 40
-5
-100
-AcDbArc
- 50
-90
- 51
-180
+1.6
   0
 ENDSEC
   0
