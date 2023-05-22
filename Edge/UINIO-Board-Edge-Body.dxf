@@ -745,7 +745,7 @@ AcDbCircle
 100
 AcDbArc
  50
-5.45529e-12
+0
  51
 90
   0
@@ -911,7 +911,7 @@ Sketch
 100
 AcDbCircle
  10
--46
+-46.5
  20
 46
  40
@@ -929,7 +929,7 @@ Sketch
 100
 AcDbCircle
  10
--46
+-46.5
  20
 -46
  40
@@ -947,7 +947,7 @@ Sketch
 100
 AcDbCircle
  10
--46
+-46.5
  20
 0
  40
@@ -965,7 +965,7 @@ Sketch
 100
 AcDbCircle
  10
-46
+46.5
  20
 0
  40
@@ -983,7 +983,7 @@ Sketch
 100
 AcDbCircle
  10
-46
+46.5
  20
 46
  40
@@ -1001,7 +1001,7 @@ Sketch
 100
 AcDbCircle
  10
-46
+46.5
  20
 -46
  40
