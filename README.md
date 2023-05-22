@@ -1,6 +1,6 @@
 # UINIO-Keyboard 数字键盘
 
-这是一款基于 [**江苏恒沁**](https://www.wch.cn/products/CH452.html) **CH452** 的数字键盘设计。
+一款同时支持 64 位键盘、旋转编码器、模拟量摇杆的可定制化输入设备。
 
 ![](./Images/PCB-3D-1.png)
 
