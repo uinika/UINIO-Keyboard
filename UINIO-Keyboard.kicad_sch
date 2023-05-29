@@ -6,8 +6,8 @@
 
   (title_block
     (title "UINIO-Keyboard")
-    (date "2023-05-24")
-    (rev "Version 1.0.0")
+    (date "2023-05-29")
+    (rev "Version 2.0.0")
     (company "电子技术博客 UinIO.com")
   )
 
@@ -5490,7 +5490,7 @@
     (property "Datasheet" "" (at 356.235 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 993342e5-f990-4758-81dc-cc1e37348020))
+    (pin "1" (uuid e3b3d160-3e2d-49ab-bb67-db4cc65bd0c8))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -5520,8 +5520,8 @@
     (property "Datasheet" "~" (at 325.12 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dac63fc5-dbad-482a-9a07-9a26eeb97593))
-    (pin "2" (uuid 89c8be88-7ebf-41e3-9992-e129794b2b06))
+    (pin "1" (uuid 4a83c232-639f-4ad0-8bf4-01b4922ecfd4))
+    (pin "2" (uuid 29897586-3783-4784-919c-e3f7d3a2493d))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -5577,13 +5577,13 @@
     (property "uuid" "std:9323c30b97424b91b0b9012d0e3352f8" (at 334.01 125.4506 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c3b99df7-40d6-44f2-aa07-33001af5ebe5))
-    (pin "2" (uuid 0fabeb64-ed59-4886-966f-d9210af905bc))
-    (pin "3" (uuid e5e592ff-a684-44b9-abb8-2540c91f2da8))
-    (pin "4" (uuid 388b84e4-479f-4074-bb6c-b869a104dc89))
-    (pin "5" (uuid 7ac8d4b9-8220-41b0-9ece-e3a1a35e210d))
-    (pin "6" (uuid 8740e8dd-359b-4873-8339-0128683ed4f9))
-    (pin "7" (uuid 82474cb2-a770-4b4a-8080-a88d96ac9245))
+    (pin "1" (uuid 8799873f-ff79-42ca-91c6-af513043aa8c))
+    (pin "2" (uuid fd3853d4-541b-4467-b648-aec107a41146))
+    (pin "3" (uuid 8ebe9a86-3447-48eb-99ed-7d3139b3f92f))
+    (pin "4" (uuid 8f46c70d-53fd-4b3a-b210-a49d37427d5a))
+    (pin "5" (uuid f7ed24c9-1340-491f-8f0f-ebf9a8aec4aa))
+    (pin "6" (uuid 84f77e95-b144-480d-9064-a5035d493e5b))
+    (pin "7" (uuid 01168fbc-aead-4e1a-b794-d4ac0fd50e2d))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -5642,8 +5642,8 @@
     (property "Datasheet" "~" (at 270.51 314.325 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d3925138-871b-4774-8220-a05ea913443d))
-    (pin "2" (uuid 417d4a08-b388-47a7-9990-22ab6e129398))
+    (pin "1" (uuid 760f5555-ece9-41ce-9357-126381029f29))
+    (pin "2" (uuid e0123e10-924d-441b-ace1-b69e40ba8aa2))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -5673,7 +5673,7 @@
     (property "Datasheet" "" (at 356.235 193.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 84f0f1ee-192a-434a-852b-692e97240928))
+    (pin "1" (uuid fcceb8c7-ac37-42ac-8e2f-9b3a4aa77412))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -5771,8 +5771,8 @@
     (property "Datasheet" "~" (at 326.39 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid efb5e6e7-93b8-472e-800e-2b1029bc36bd))
-    (pin "2" (uuid f20ea865-fbeb-491e-966b-4a3fefc10020))
+    (pin "1" (uuid bc3fa7c3-9da0-49cf-a7d4-df0e5f77f174))
+    (pin "2" (uuid 1e4c738e-17ca-48fe-acdf-7de90466330d))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -5865,8 +5865,8 @@
     (property "Datasheet" "~" (at 273.05 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c1d507ef-93f6-41ba-b83d-28ebbc0eb5c5))
-    (pin "2" (uuid 0f4b9177-d4d4-47c8-8d56-3d8f0ab05719))
+    (pin "1" (uuid 5dcffd14-8595-4b91-8b25-3be0a9cf255c))
+    (pin "2" (uuid 5761c2a2-8f3b-44c4-ad11-442f7eae100f))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -5982,8 +5982,8 @@
     (property "Datasheet" "~" (at 273.05 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 56b4d9d2-248d-4695-a88a-8617003b7704))
-    (pin "2" (uuid 1ed8b3be-1371-44ce-a50d-5b2ca7ae54f5))
+    (pin "1" (uuid 158af1f7-3755-4743-bbcc-bc8f3fc1967c))
+    (pin "2" (uuid 3e34697a-eed8-4414-add1-be33a6bbfa46))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -6013,7 +6013,7 @@
     (property "Datasheet" "" (at 352.425 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 26844a15-a6c8-4ac4-9837-77720564b887))
+    (pin "1" (uuid c3521ef2-cf60-4943-813a-1e12a7308c86))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -6043,7 +6043,7 @@
     (property "Datasheet" "" (at 364.49 309.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1b3836cf-16f3-4e11-84d2-881251101f6a))
+    (pin "1" (uuid 86457eb9-4fbf-4c73-8eaf-8e60f709dc90))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -6171,8 +6171,8 @@
     (property "Datasheet" "~" (at 326.39 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 21dcaf02-4512-46d1-93d1-3ac04d4670c3))
-    (pin "2" (uuid b25fe42f-d180-4301-a570-ce789e09c394))
+    (pin "1" (uuid 0bde0a9f-05a2-4dbe-a517-a24d95c535da))
+    (pin "2" (uuid fa3bf7b8-990b-4c14-b3ce-2074d0ded1df))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -6197,7 +6197,7 @@
     (property "Datasheet" "" (at 270.51 320.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f044543c-f6e1-4a2d-9da6-68b9437729d3))
+    (pin "1" (uuid e182ecf5-0ce7-4568-a671-13a60e215fb4))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -6227,8 +6227,8 @@
     (property "Datasheet" "~" (at 325.12 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2811a0e9-5192-4327-a0fc-034a7bb764e6))
-    (pin "2" (uuid 7ee3692f-0afe-482d-91d5-ae80e52a1177))
+    (pin "1" (uuid 80e6a77b-76e7-496a-86ed-aeef117acabf))
+    (pin "2" (uuid 6e547c26-9ee2-4edb-9972-83ea74b19a4e))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -6253,7 +6253,7 @@
     (property "Datasheet" "" (at 356.235 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 85e2155a-b8e3-4245-9ae7-cdb7aa376c2c))
+    (pin "1" (uuid f2414a1b-da2a-4fe8-88b2-29987f70b133))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -6411,8 +6411,8 @@
     (property "Datasheet" "~" (at 345.44 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1bec0c95-2712-4034-accf-7f9bd2da83ac))
-    (pin "2" (uuid cce54340-d526-4e80-9b0b-0468e69303d6))
+    (pin "1" (uuid c81f4553-9814-459f-a35d-87f6592e82ac))
+    (pin "2" (uuid 990c5934-8c4e-42cf-bd35-1fa116635090))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -6471,7 +6471,7 @@
     (property "Datasheet" "" (at 334.01 84.455 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 884eabc5-647b-4ba7-98e1-cdc81878c02a))
+    (pin "1" (uuid 95458bac-0f0d-43d0-a050-94f4c13c10c2))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -6569,8 +6569,8 @@
     (property "Datasheet" "~" (at 342.9 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bcc1a833-50d2-4901-b613-e6cd08fad568))
-    (pin "2" (uuid c05e8e09-e8f2-4e0d-b86b-4455f24cd945))
+    (pin "1" (uuid e5478e82-61f3-4e75-be51-963a462236f7))
+    (pin "2" (uuid 7842dcc4-cfbd-48ea-933a-4a8d6c6706f2))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -6629,8 +6629,8 @@
     (property "Datasheet" "~" (at 271.78 198.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 32acf1e9-1c03-477c-a105-67f80a0f96bd))
-    (pin "2" (uuid 75a55c2e-5ec3-4cf1-956b-9b6d09b483f1))
+    (pin "1" (uuid 4a5d315d-6b1a-4bd6-a3cd-52823c2b1d04))
+    (pin "2" (uuid 3a1642d2-e6da-44b8-a8aa-b22df53419ca))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -6660,7 +6660,7 @@
     (property "Datasheet" "" (at 331.47 276.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 814e99fc-bbbb-4888-a34f-54759fe37efb))
+    (pin "1" (uuid d8962ee9-96c4-42ca-a828-678682e046fc))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -6690,7 +6690,7 @@
     (property "Datasheet" "" (at 352.425 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f0399aa0-0e7a-4ec1-ad70-2870a2e7036b))
+    (pin "1" (uuid cf250385-594c-484a-8f2c-68a51c7bf838))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -6720,7 +6720,7 @@
     (property "Datasheet" "" (at 353.06 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 42e97273-ed1b-4850-8804-7f4c5b156b7e))
+    (pin "1" (uuid f23a7a3e-67d7-4ff2-a5d1-61635005d9c0))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -6784,7 +6784,7 @@
     (property "Datasheet" "" (at 273.05 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 24d48393-9fd0-4c76-aae1-d3548c119b0d))
+    (pin "1" (uuid ded7eef2-21eb-4f1f-af9a-ecfe4fdf7e09))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -6848,8 +6848,8 @@
     (property "Datasheet" "~" (at 341.63 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 20ed01eb-dc9b-417b-828a-44f3dc6cde6e))
-    (pin "2" (uuid eda51bf0-bb46-4c74-af2f-8c88c7c9844a))
+    (pin "1" (uuid 5302a68d-9075-48b8-b27d-295889855e14))
+    (pin "2" (uuid ab3c04f6-f256-4bbf-a445-89cb0cbe249d))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -6908,7 +6908,7 @@
     (property "Datasheet" "" (at 273.05 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 46aca56e-b515-45dc-914c-e9c118b03ad0))
+    (pin "1" (uuid 306ad25a-881f-42b3-b52a-82bb0b63ba07))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -6972,8 +6972,8 @@
     (property "Datasheet" "~" (at 270.51 305.435 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 108e0650-5ada-48e8-bddc-66851008e477))
-    (pin "2" (uuid 04a61bcf-6004-4cf5-a149-5be807376546))
+    (pin "1" (uuid 87a3e141-4469-498e-a406-7d370ff8ca8c))
+    (pin "2" (uuid cd730f59-6e57-4f5a-a950-3a340a8fdeb8))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -7003,7 +7003,7 @@
     (property "Datasheet" "" (at 313.055 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 47559770-d2e2-4a3c-8a5f-91f0728f9339))
+    (pin "1" (uuid fe89a2e7-b48b-420c-ad26-59b8e6e899bd))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -7101,7 +7101,7 @@
     (property "Datasheet" "" (at 316.23 285.115 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6b753e80-ad66-4684-ab0f-a0e711953aaf))
+    (pin "1" (uuid 8ec97e7b-41cf-40f5-b832-3fd87d41b621))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -7165,7 +7165,7 @@
     (property "Datasheet" "" (at 311.15 193.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 767c96bf-0836-48b9-9d14-90e3deb0b17d))
+    (pin "1" (uuid 3f148ece-eae9-4ed5-b733-dfcc05709577))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -7195,7 +7195,7 @@
     (property "Datasheet" "" (at 287.655 205.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid efbfd779-eb3a-4ea2-972f-89f57e530d4e))
+    (pin "1" (uuid 54c4da94-aaa0-47f2-9b2f-5a8c78f64418))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -7293,8 +7293,8 @@
     (property "Datasheet" "~" (at 344.17 218.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5357d1b2-3f27-4253-9a00-dc74617baca4))
-    (pin "2" (uuid 91ee8b79-da7c-42ef-a65e-b4063f55819a))
+    (pin "1" (uuid 82efffd9-ec3d-42b2-b3a3-492e7c332786))
+    (pin "2" (uuid 49dea2bb-8f6e-4fe7-b676-a8fc87f3b72c))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -7353,8 +7353,8 @@
     (property "Datasheet" "~" (at 323.85 205.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d6b216a4-d1f4-4c1b-b186-cd6bda53f940))
-    (pin "2" (uuid 6490a38f-580f-4398-9027-049e256c6c19))
+    (pin "1" (uuid f693e2ea-0586-4c04-8d01-0ac73cf0a7c3))
+    (pin "2" (uuid c07c8469-85c9-482d-8868-58ac92046c15))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -7413,8 +7413,8 @@
     (property "Datasheet" "~" (at 345.44 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a813ad0a-957c-4fdd-8ade-c3144a37f437))
-    (pin "2" (uuid a7ee02b6-c13d-4bde-ab04-b4c2105445a6))
+    (pin "1" (uuid e324e3d9-08e3-4e8f-8859-146aa9040327))
+    (pin "2" (uuid 86fd9342-3166-49e2-87b2-089a862c8232))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -7473,11 +7473,11 @@
     (property "Datasheet" "~" (at 266.7 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fd08009f-fb5e-441a-a490-0fdd408a1ee1))
-    (pin "2" (uuid e89d1fb2-60ae-4e9d-84b0-bce98c9e075f))
-    (pin "3" (uuid b79387e0-9857-4a09-a5fd-40ea66313993))
-    (pin "4" (uuid dac91658-6a6a-4e52-a968-08850671276e))
-    (pin "5" (uuid 4620aa38-e7f0-4ed8-a6c0-f16ed6cbc5b0))
+    (pin "1" (uuid 051a5017-08d6-4d69-8f38-e566afeab80e))
+    (pin "2" (uuid 92520b47-39ab-42b7-9386-bebf0f86a724))
+    (pin "3" (uuid d0c23d23-e787-4ee9-805b-55c1a55a8387))
+    (pin "4" (uuid a970c43e-fe9b-44c6-aa8f-32ba66b2e88f))
+    (pin "5" (uuid 881a5f7a-2b1a-4c49-89bc-1bd1a33cae9e))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -7502,8 +7502,8 @@
     (property "Datasheet" "~" (at 341.63 205.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 567f5a17-bf28-44de-96bb-b0807f21c53c))
-    (pin "2" (uuid e6904abb-e7c1-40b1-ab65-93e99bc777ef))
+    (pin "1" (uuid 64936925-6e20-4d29-8196-58ce2f9579cd))
+    (pin "2" (uuid 55385da1-9d01-4025-b605-53f703392955))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -7596,7 +7596,7 @@
     (property "Datasheet" "" (at 334.01 154.305 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6a55a652-8ba5-4826-8b6d-e2eceef6f9ad))
+    (pin "1" (uuid 6604e443-f7d9-4728-9164-5653be46eb5b))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -7626,11 +7626,11 @@
     (property "Datasheet" "~" (at 265.43 208.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 32429dc5-83ef-48ea-8de0-a5dfb651c9ca))
-    (pin "2" (uuid 903317ba-c4dc-439e-ae41-2312af11bb28))
-    (pin "3" (uuid 9ab4a0aa-2175-4309-bda5-7e2ea7ef9658))
-    (pin "4" (uuid a99a9b3c-bec5-4ecc-85d2-d39d53af7766))
-    (pin "5" (uuid 97265fec-bc41-49a1-8da7-1f08c137248d))
+    (pin "1" (uuid 0e55dcc8-ed34-43c9-9bea-636308eef006))
+    (pin "2" (uuid 0fb9de0f-f2cf-4d91-b9ed-ffd0773d2b83))
+    (pin "3" (uuid 5b966d47-f8c9-4c31-a2ee-eb5f7a9a6e4b))
+    (pin "4" (uuid d5e4f48d-4a93-4b5a-afe2-43de0def1cea))
+    (pin "5" (uuid 8ea0ad05-b60e-4d10-89f3-1165f1825221))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -7729,13 +7729,13 @@
     (property "uuid" "std:9323c30b97424b91b0b9012d0e3352f8" (at 332.74 196.5706 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 99f00dc6-d816-45a8-9abf-25a14e970eac))
-    (pin "2" (uuid fb8a5a86-812b-4a12-8a0f-94c628cacf95))
-    (pin "3" (uuid 92820963-2855-4aac-b3ec-e9cce25d65c0))
-    (pin "4" (uuid 1598990b-516b-4657-91d7-6ccbb0b9696c))
-    (pin "5" (uuid 91b78708-50a3-4d70-a5ef-9637b8d9723f))
-    (pin "6" (uuid 505a52cd-e54a-47ff-b8f3-6d95a4691f4b))
-    (pin "7" (uuid cf143d4b-88b8-4987-b7d2-991c8401fd7f))
+    (pin "1" (uuid fa09fd93-11c1-442e-bdc8-232a557ca2b8))
+    (pin "2" (uuid 5abb0933-e0b5-4ba4-94e4-269dbc7b89e1))
+    (pin "3" (uuid 306889cf-ae2e-4411-a14b-93535a4a6d93))
+    (pin "4" (uuid 985faba2-e252-4347-aed2-6d1f5a7c29b2))
+    (pin "5" (uuid 6af1fea1-1802-469a-94b1-c8166a80ee4b))
+    (pin "6" (uuid 13325d9f-8547-465f-a3f8-125c76e71cec))
+    (pin "7" (uuid d98b0608-f3f7-416d-a087-283857aad733))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -7820,7 +7820,7 @@
     (property "Datasheet" "" (at 314.325 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0ac91312-186f-48fe-8b0e-1f84306f33a7))
+    (pin "1" (uuid 4735d2bb-2fbd-4069-bea6-0ad00ada3179))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -7850,7 +7850,7 @@
     (property "Datasheet" "" (at 352.425 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f7d465dd-c172-4e2c-85ba-30131091d0c9))
+    (pin "1" (uuid 7a6478f3-5114-4e12-a88a-97321d72e24b))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -7914,7 +7914,7 @@
     (property "Datasheet" "" (at 332.74 228.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2d9c37ff-36bb-4cf8-ae1a-d4c2c0753adb))
+    (pin "1" (uuid 4d3b97b6-22e8-4b2f-aa1d-9f0b0bfc9a15))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -8070,8 +8070,8 @@
     (property "Datasheet" "~" (at 273.05 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d698718d-4729-4a50-b34a-25267879e22f))
-    (pin "2" (uuid 45b0b5e1-4ed6-4169-ad2a-a94743647df9))
+    (pin "1" (uuid 9c2a6a27-82f4-4d0d-a0a1-7c82edb7004e))
+    (pin "2" (uuid bdab3973-6da2-482d-96ac-df731f934347))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -8271,8 +8271,8 @@
     (property "Datasheet" "~" (at 342.9 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1504294d-aa27-4432-88db-59520625791d))
-    (pin "2" (uuid e1085779-9c75-42bb-8288-92773f42f4f0))
+    (pin "1" (uuid 2735889b-2aa1-4741-9ccc-8c92e8d4e854))
+    (pin "2" (uuid dea406f9-108d-4627-a54c-4e7c11f91cf0))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -8331,8 +8331,8 @@
     (property "Datasheet" "~" (at 323.85 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f57e19ee-0b7d-4127-8b0a-b89aa8ebe380))
-    (pin "2" (uuid 7355184c-7774-41c5-88b0-7a99dcebcadf))
+    (pin "1" (uuid 95258599-2579-44ed-bd7f-7decdea7cac9))
+    (pin "2" (uuid 3154e329-0c2f-4a68-954b-9b30614098c4))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -8425,7 +8425,7 @@
     (property "Datasheet" "" (at 352.425 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8a978a7a-a527-4b77-9603-eb16faa4bedc))
+    (pin "1" (uuid 95dbed9e-b76d-43fc-adfb-2b708e42a0ba))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -8613,7 +8613,7 @@
     (property "Datasheet" "" (at 352.425 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 08392682-fb70-4684-9caa-a411bc195319))
+    (pin "1" (uuid b014ddea-2645-4b98-8074-fe79d2cef5c9))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -8643,8 +8643,8 @@
     (property "Datasheet" "~" (at 325.12 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e63caf67-e020-46f2-9a0b-5323eb0b6902))
-    (pin "2" (uuid 28f2df28-f5a2-4671-80e5-38ef11e606f9))
+    (pin "1" (uuid 55bcf34c-e949-4cb5-9f78-85cba30c149c))
+    (pin "2" (uuid 8011f819-4163-4809-8829-db7564718653))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -8771,7 +8771,7 @@
     (property "Datasheet" "" (at 288.925 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1825cf7a-a9e7-40fa-8895-34d67fab6d53))
+    (pin "1" (uuid 310b9d2d-5e36-4a61-afa5-ab9bc7071764))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -8827,7 +8827,7 @@
     (property "Datasheet" "" (at 285.75 295.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0a491ce3-f32c-4f19-8f84-a87eb4d4055b))
+    (pin "1" (uuid ebec4362-6b70-4f51-b218-ae3a024004e9))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -8917,7 +8917,7 @@
     (property "Datasheet" "" (at 314.325 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c635e8d5-1aea-4317-98da-6925fa57f59b))
+    (pin "1" (uuid be4f507b-7a16-46b5-849e-c4d5c736fb03))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -8947,7 +8947,7 @@
     (property "Datasheet" "" (at 312.42 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8524592c-c0cc-43b7-a9db-a5d20f487070))
+    (pin "1" (uuid 639b05a3-a16a-48f3-8e2d-940dcbd2a5b6))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -9041,11 +9041,11 @@
     (property "Datasheet" "~" (at 263.525 293.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7af957e8-628f-4970-aac8-42db531a57b6))
-    (pin "2" (uuid ba6cc43e-3aa3-4875-8358-948095e984d3))
-    (pin "3" (uuid 7bb78f13-37b0-4c42-9ef5-103ca0b42260))
-    (pin "4" (uuid e603402d-2b25-461b-b8b0-6870a7011351))
-    (pin "5" (uuid 2b8b3f19-1787-49d9-b0ef-6d3c8feca123))
+    (pin "1" (uuid 9f863837-1397-41da-bc6e-32a48df29b11))
+    (pin "2" (uuid 4a9b8417-064a-4c7d-bb68-b2f0af0ff383))
+    (pin "3" (uuid b19a30c1-c23b-411b-bd9f-28c13b3cb816))
+    (pin "4" (uuid 89a35a96-5841-46b1-9ce3-3ca39cfcb563))
+    (pin "5" (uuid d78e3170-d679-44b4-b744-a8af9f384ae5))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -9137,8 +9137,8 @@
     (property "Datasheet" "~" (at 325.12 218.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5144c6d5-7ccf-4979-9b73-9b262fbf7899))
-    (pin "2" (uuid 0ddc0269-183a-490c-9aa0-0639cffcb512))
+    (pin "1" (uuid 01fa4415-0b47-4c0c-bd63-303ba5df1574))
+    (pin "2" (uuid 61e8dfe5-3fa2-4e3c-97d5-d5cc8260a24b))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -9163,8 +9163,8 @@
     (property "Datasheet" "~" (at 273.05 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ccf4d566-0022-4579-b86b-16ae1b0e9a59))
-    (pin "2" (uuid 46bd7449-447a-4b72-8e09-da6a00c92657))
+    (pin "1" (uuid f88c12a7-9d2d-42a1-a864-c52d37fdb992))
+    (pin "2" (uuid 7d1be2af-ae57-4ae6-acd5-fa3d41d0bb20))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -9194,7 +9194,7 @@
     (property "Datasheet" "" (at 352.425 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a0682b44-c0f9-4dd6-bf20-a8d4280c4a1a))
+    (pin "1" (uuid b307e7d4-f416-4f4f-8804-3e86c388429e))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -9224,8 +9224,8 @@
     (property "Datasheet" "~" (at 341.63 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 564fa363-b826-4f1d-abcb-643a302bfefa))
-    (pin "2" (uuid 6ad92f2d-b0eb-42d7-90d7-293c0c68ede8))
+    (pin "1" (uuid aad9f6b8-36a3-419f-b7b4-12b0b903ceab))
+    (pin "2" (uuid 2ec1d60b-6f8e-471c-a063-05bc71643dcb))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -9352,7 +9352,7 @@
     (property "Datasheet" "" (at 288.925 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d4fce8a1-dff5-4f2c-8937-ddee2be220cf))
+    (pin "1" (uuid ad050b81-94ed-4d59-86a0-e5ca0a8a17bd))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -9382,7 +9382,7 @@
     (property "Datasheet" "" (at 355.6 314.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4bbcc381-c4c1-4b15-bd5d-efb11c17b780))
+    (pin "1" (uuid a80136a8-7fd8-45ad-99f6-4ecc6da369e7))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -9446,8 +9446,8 @@
     (property "Datasheet" "~" (at 340.36 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e642ed19-6224-4a95-9138-39f7f1b31758))
-    (pin "2" (uuid f7acc011-0d47-4a0a-b1a4-396d477a5702))
+    (pin "1" (uuid 92170fa1-c6a5-4e9f-aa46-f81947167ae5))
+    (pin "2" (uuid 5223daed-0480-4134-b65d-d0b156f91100))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -9532,11 +9532,11 @@
     (property "Datasheet" "~" (at 266.7 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 455b28fc-a083-4b5b-83be-141325036186))
-    (pin "2" (uuid 4b0f878b-8cc1-4bc2-997b-428230c97088))
-    (pin "3" (uuid 43908909-06aa-4a53-925d-b968a18d80b7))
-    (pin "4" (uuid 1441f35d-e574-454f-9ccb-093c1efe816d))
-    (pin "5" (uuid 9bb24f5d-6722-4a15-b2c6-2528c271245e))
+    (pin "1" (uuid 17d9d47e-3079-4733-aa98-54c22813b2a1))
+    (pin "2" (uuid 30d4bd4c-bf11-4d85-98b4-37c71be2aebe))
+    (pin "3" (uuid bea50940-542b-4268-8eb9-5ed497eca0f2))
+    (pin "4" (uuid 8b451cc5-127e-41c9-9f7c-b373bb7258bf))
+    (pin "5" (uuid 15d2dad7-d758-4d95-9857-1a3566ce4727))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -9651,7 +9651,7 @@
     (property "Datasheet" "" (at 356.87 218.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 909785a3-fc62-461a-8d25-a21390ca042a))
+    (pin "1" (uuid e995fe5d-bc21-4789-baaf-2e3e9bdf42b1))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -9681,7 +9681,7 @@
     (property "Datasheet" "" (at 353.06 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9640a1c0-8728-487c-95d1-1917f5ac5405))
+    (pin "1" (uuid 93be8d66-a072-4b9e-9a0b-ab5a3f590d50))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -9711,7 +9711,7 @@
     (property "Datasheet" "" (at 311.15 218.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b4cef8ac-975d-4141-9a9a-0e5c863fdd4f))
+    (pin "1" (uuid fd91b4b1-c1cb-44b3-9a15-776aa76ed9d9))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -9747,20 +9747,20 @@
     (property "uuid" "std:95521bddf2bc42b6b3a97ee0acf25854" (at 326.898 308.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bf87de6c-21dc-4aca-9fc8-0720c5c1d5c3))
-    (pin "10" (uuid 1473ebcc-3eac-467d-a356-71076d5542dd))
-    (pin "2" (uuid ace0e840-caf2-402e-b547-feabaf5493fc))
-    (pin "3" (uuid 57be9812-e189-4121-a5a2-db2d7c683049))
-    (pin "4" (uuid 5bb1a5b9-44f7-4e2d-9a6d-4e033bfd24e7))
-    (pin "5" (uuid ecf7c4d8-4d18-47f7-8286-8693b8386abf))
-    (pin "6" (uuid a094a71a-bac3-40b3-a4ae-0cf781f29f6f))
-    (pin "7" (uuid 5704a6a5-df1c-4ee2-83ed-bd8921256fee))
-    (pin "8" (uuid 6a5c1bb8-cfc2-4b30-ba39-9a900caefc5a))
-    (pin "9" (uuid 5a05c796-527d-48be-9eb0-683a4f887241))
-    (pin "a" (uuid d5e9fa59-1c7b-430c-9b7a-b2dc4d2d0a4c))
-    (pin "b" (uuid c82e7204-97ee-488c-bd92-e489ab48876f))
-    (pin "c" (uuid d5cbc725-e6c3-4645-8e4b-a1e220ef8d08))
-    (pin "d" (uuid 85dd0a2d-7720-4e5e-879e-217cd22bca94))
+    (pin "1" (uuid 975c3620-3244-493a-a8dd-69b292bdfbfd))
+    (pin "10" (uuid 08219ff9-2caf-4a73-826b-926b069d65bb))
+    (pin "2" (uuid a921451a-5b18-42e2-9b88-ce6a2899fd5a))
+    (pin "3" (uuid c435f569-5435-4ce3-96d2-7df64aba3cf3))
+    (pin "4" (uuid 03781c9e-2952-4a12-b258-6a2b836acc7b))
+    (pin "5" (uuid 6f01d5a9-d7ea-4fbf-ba07-178191fa695b))
+    (pin "6" (uuid bf989ea3-0e6e-4c7b-98aa-81a46b5c2f9c))
+    (pin "7" (uuid 99a3516f-a8f2-47dc-bd10-7091e52ffbf5))
+    (pin "8" (uuid 5624cc0a-0d56-41bd-9b7d-df607a17a784))
+    (pin "9" (uuid cd47887e-39d5-4b33-b456-b6cc5a430e85))
+    (pin "a" (uuid 3e438d81-92d0-4cfd-9200-c2d7ec214624))
+    (pin "b" (uuid 31b960d8-88df-45e4-8b92-3847f2a3bc23))
+    (pin "c" (uuid 2a169687-f42a-4f03-a4a6-4a421a9a8a03))
+    (pin "d" (uuid 540fc47d-d2ad-4e28-9d44-63851e3698cd))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -9785,8 +9785,8 @@
     (property "Datasheet" "~" (at 271.78 189.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 33595b29-d0bb-4f6c-ba9b-7c9adb6ff39b))
-    (pin "2" (uuid 7e957882-3a78-4ae8-92c2-eb7ad14f6c2f))
+    (pin "1" (uuid b3611476-878d-4328-9311-df5680c07577))
+    (pin "2" (uuid 0c527355-c811-42b1-a8d6-c637276c6d22))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -9906,7 +9906,7 @@
     (property "Datasheet" "" (at 271.78 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b126e8e1-bc8c-4c29-ba10-95aeaa84dc17))
+    (pin "1" (uuid ed17ef11-4e87-43a0-912a-9d54c67787e1))
     (instances
       (project "UINIO-MCU-ESP32S3"
         (path "/7b5dffae-532b-44bd-828e-e231478b308d"
@@ -9942,13 +9942,13 @@
     (property "uuid" "std:9323c30b97424b91b0b9012d0e3352f8" (at 334.01 54.3306 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 799cdad4-ad9b-4224-8e68-8b7b9d19a8e8))
-    (pin "2" (uuid ce09d433-c065-4558-a82c-a192f1754175))
-    (pin "3" (uuid 88cd140e-6473-4f25-ae51-077b854d99ab))
-    (pin "4" (uuid 06000e10-99d4-4e03-8217-5a43a151c4d8))
-    (pin "5" (uuid cf5c3388-f989-4ddd-bff4-060ce8b609d2))
-    (pin "6" (uuid ceaafbd3-bc86-4c14-8b30-c73b438ecda3))
-    (pin "7" (uuid f5ffbfc5-b2f6-4511-90ad-2b293e28114e))
+    (pin "1" (uuid 40dab958-b699-404f-a5e1-e391088358ce))
+    (pin "2" (uuid d9268b8f-e0d4-4f69-a0f1-cee9237a8628))
+    (pin "3" (uuid e502a042-5fbd-4d4a-860d-739bd51d71fd))
+    (pin "4" (uuid cf70d6df-b9b4-4bf8-b7ff-3d277c5cc351))
+    (pin "5" (uuid 5a6b60c0-3ada-48fb-8dbf-38cb03496908))
+    (pin "6" (uuid 30eaad5e-6f23-421a-923c-ed731d846875))
+    (pin "7" (uuid 72e47942-31f7-45a8-bbb6-8dcef204e1e7))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
@@ -10135,8 +10135,8 @@
     (property "Datasheet" "~" (at 325.12 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2f179a34-5f34-4c8b-a2b7-a2be360d60e3))
-    (pin "2" (uuid adae6870-6252-4662-a848-04310d7b1bc8))
+    (pin "1" (uuid a680b6df-4e90-4d41-9eac-525593e8c87b))
+    (pin "2" (uuid 3330a171-fc92-42a2-b110-d746433646e6))
     (instances
       (project "UINIO-Keyboard"
         (path "/bbcda099-2b9a-49b2-9355-114c31909b50"
