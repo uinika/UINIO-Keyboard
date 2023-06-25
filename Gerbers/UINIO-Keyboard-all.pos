@@ -1,5 +1,5 @@
-### Footprint positions - created on Thu May 25 11:24:08 2023 ###
-### Printed by KiCad version 7.0.2
+### Footprint positions - created on Sun Jun 25 15:18:57 2023 ###
+### Printed by KiCad version 7.0.5
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val               Package                                  PosX       PosY       Rot  Side
@@ -14,10 +14,10 @@ C8        0.01uF            C_0402_1005Metric                    163.4190   -64.
 C9        0.1uF             C_0402_1005Metric                    163.4400   -69.1700    0.0000  top
 C10       0.01uF            C_0402_1005Metric                    163.4300   -60.8200    0.0000  top
 D1        LED_Red           LED_0603_1608Metric                  191.6500   -77.6897  -90.0000  top
-D2        LED_Red           LED_0603_1608Metric                  139.1275   -57.1300    0.0000  top
-D3        LED_Red           LED_0603_1608Metric                  117.9400   -57.1300    0.0000  top
-D4        LED_Red           LED_0603_1608Metric                  160.5025   -57.1300    0.0000  top
-D5        LED_Red           LED_0603_1608Metric                  189.0675   -56.3300  180.0000  top
+D2        LED_Red           LED_0603_1608Metric                  139.7100   -57.1700    0.0000  top
+D3        LED_Red           LED_0603_1608Metric                  118.5500   -57.1700    0.0000  top
+D4        LED_Red           LED_0603_1608Metric                  161.0100   -57.1700    0.0000  top
+D5        LED_Red           LED_0603_1608Metric                  189.2700   -56.6000  180.0000  top
 J1        Conn_01x06_Pin    PinHeader_1x06_P2.54mm_Vertical      158.3575   -52.1000   90.0000  top
 J2        Conn_01x05_Pin    PinHeader_1x05_P2.54mm_Vertical      106.5400   -52.1000   90.0000  top
 J3        Conn_01x05_Pin    PinHeader_1x05_P2.54mm_Vertical      123.8125   -52.1000   90.0000  top
@@ -66,10 +66,10 @@ K40       A                 KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7     156.0362  -137.
 K41       A                 KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7     164.6425  -137.0250    0.0000  top
 K42       A                 KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7     173.2488  -137.0250    0.0000  top
 K43       A                 KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7     108.7800  -137.0250    0.0000  top
-K44       A                 KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7     108.7800  -146.8250  180.0000  top
-K45       A                 KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7     147.4450  -146.8250  180.0000  top
+K44       A                 KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7     108.8037  -146.5450  180.0000  top
+K45       A                 KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7     147.4688  -146.5450  180.0000  top
 K46       A                 KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7     186.2362  -137.0250    0.0000  top
-K47       A                 KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7     186.2362  -146.8250    0.0000  top
+K47       A                 KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7     186.2000  -146.5300    0.0000  top
 K48       A                 KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7     170.7500  -100.2400  180.0000  top
 K49       A                 KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7     178.5200  -100.2400    0.0000  top
 K50       A                 KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7     186.2900  -100.2400    0.0000  top
@@ -108,11 +108,11 @@ R18       2K                R_0402_1005Metric                    163.4200   -57.
 R19       10K               R_0402_1005Metric                    163.4400   -70.3100    0.0000  top
 R20       10K               R_0402_1005Metric                    163.4190   -65.5700    0.0000  top
 R21       10K               R_0402_1005Metric                    163.4300   -59.6900    0.0000  top
-R22       2K                R_0402_1005Metric                    189.6450   -57.8300    0.0000  top
+R22       2K                R_0402_1005Metric                    189.8400   -58.1800    0.0000  top
 SW1       SWITCH_SS12D00G3  SW-TH_SS-12D01-GX                    168.2900   -79.3400   90.0000  top
 SW2       RKJXV1224005      SW-TH_RKJXV1224005                   181.7890   -63.3980   90.0000  top
 U1        CH452A            SOIC-28_L17.9-W7.5-P1.27-LS10.3-BL   180.7000   -79.3400    0.0000  top
-U2        EC1106S           SW-SMD_EC1106S                       110.3110   -64.1000   90.0000  top
-U3        EC1106S           SW-SMD_EC1106S                       131.4800   -64.1000   90.0000  top
-U4        EC1106S           SW-SMD_EC1106S                       152.6490   -64.1000   90.0000  top
+U2        EC1106S           SW-TH_EC11S                          110.3110   -64.1000   90.0000  top
+U3        EC1106S           SW-TH_EC11S                          131.4800   -64.1000   90.0000  top
+U4        EC1106S           SW-TH_EC11S                          152.6490   -64.1000   90.0000  top
 ## End
