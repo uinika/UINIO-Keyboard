@@ -1,5 +1,5 @@
-### Footprint positions - created on Thu Jun 29 15:33:29 2023 ###
-### Printed by KiCad version 7.0.5
+### Footprint positions - created on Sun Jul  9 23:56:51 2023 ###
+### Printed by KiCad version 7.0.6
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val               Package                                  PosX       PosY       Rot  Side
@@ -12,7 +12,7 @@ C6        0.01uF            C_0402_1005Metric                    142.1200   -59.
 C7        0.1uF             C_0402_1005Metric                    191.6150   -82.1662    0.0000  top
 C8        0.01uF            C_0402_1005Metric                    163.4190   -64.4200    0.0000  top
 C9        0.1uF             C_0402_1005Metric                    163.4400   -69.1700    0.0000  top
-C10       0.01uF            C_0402_1005Metric                    163.4300   -60.8200    0.0000  top
+C10       0.01uF            C_0402_1005Metric                    163.4300   -59.6600    0.0000  top
 D1        LED_Red           LED_0603_1608Metric                  191.6500   -77.6897  -90.0000  top
 D2        LED_Red           LED_0603_1608Metric                  139.7100   -57.1700    0.0000  top
 D3        LED_Red           LED_0603_1608Metric                  118.5500   -57.1700    0.0000  top
@@ -107,7 +107,7 @@ R17       2K                R_0402_1005Metric                    120.9675   -57.
 R18       2K                R_0402_1005Metric                    163.4200   -57.4300    0.0000  top
 R19       10K               R_0402_1005Metric                    163.4400   -70.3100    0.0000  top
 R20       10K               R_0402_1005Metric                    163.4190   -65.5700    0.0000  top
-R21       10K               R_0402_1005Metric                    163.4300   -59.6900    0.0000  top
+R21       10K               R_0402_1005Metric                    163.4300   -60.7900    0.0000  top
 R22       2K                R_0402_1005Metric                    189.8400   -58.1800    0.0000  top
 SW1       SWITCH_SS12D00G3  SW-TH_SS-12D01-GX                    168.2900   -79.3400   90.0000  top
 SW2       RKJXV1224005      SW-TH_RKJXV1224005                   181.7890   -63.3980   90.0000  top
