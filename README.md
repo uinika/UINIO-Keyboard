@@ -18,6 +18,5 @@
 
 [UinIO.com 电子技术实验室](http://uinio.com/) 为 **UINIO-Keyboard** 开源项目提供了如下参考技术资料：
 
-- [**《BOM 交互式物料清单与 PCB 布线在线预览》**](http://uinio.com/archives/BOM/UINIO-Keyboard.html)
 - [《UINIO-Keyboard 核心板原理图》](http://uinio.com/my/works/UINIO-Keyboard/UINIO-Keyboard-Schematic.pdf)
 - [《交互式 BOM 物料清单与 PCB 版图在线预览》](http://uinio.com/my/works/UINIO-Keyboard/UINIO-Keyboard-BOM.html)
