@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,7.0.9*%
-%TF.CreationDate,2024-01-11T17:52:42+08:00*%
-%TF.ProjectId,UINIO-Keyboard,55494e49-4f2d-44b6-9579-626f6172642e,Version 3.1.1*%
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.6*%
+%TF.CreationDate,2024-11-29T11:38:45+08:00*%
+%TF.ProjectId,UINIO-Keyboard,55494e49-4f2d-44b6-9579-626f6172642e,Version 3.2.0*%
 %TF.SameCoordinates,PX5ce82e0PY3548230*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.9) date 2024-01-11 17:52:42*
+G04 Created by KiCad (PCBNEW 8.0.6) date 2024-11-29 11:38:45*
 %MOMM*%
 %LPD*%
 G01*
